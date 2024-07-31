@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shruti926/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shruti926/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Shruti926/Leetcode/tree/master/1511-count-number-of-teams) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shruti926/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
