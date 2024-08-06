@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shruti926/Leetcode/tree/master/0948-sort-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Shruti926/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
