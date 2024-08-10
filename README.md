@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shruti926/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1511-count-number-of-teams](https://github.com/Shruti926/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1677-matrix-diagonal-sum](https://github.com/Shruti926/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shruti926/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shruti926/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shruti926/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shruti926/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shruti926/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Shruti926/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Counting
 |  |
 | ------- |
