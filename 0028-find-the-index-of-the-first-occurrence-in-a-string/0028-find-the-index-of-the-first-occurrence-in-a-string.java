@@ -12,8 +12,7 @@ class Solution {
         }
         for(int i = 0; i<=m-n; i++)
         {
-            String substring = haystack.substring(i, i+n);
-            if(needle.equals(substring))
+            if(haystack.substring(i, i+n).equals(needle))
             {
                 return i;
             }
