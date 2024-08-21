@@ -1,0 +1,23 @@
+class Solution {
+    public int strStr(String haystack, String needle) {
+        int n = needle.length();
+        int m = haystack.length();
+        if(n==0)
+        {
+            return -1;
+        } 
+        if(n>m)
+        {
+            return -1;
+        }
+        for(int i = 0; i<=m-n; i++)
+        {
+            String substring = haystack.substring(i, i+n);
+            if(needle.equals(substring))
+            {
+                return i;
+            }
+        }
+        return -1;
+        }
+   }
