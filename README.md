@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Shruti926/Leetcode/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Shruti926/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Shruti926/Leetcode/tree/master/0948-sort-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shruti926/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Shruti926/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shruti926/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shruti926/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
 ## String
 |  |
