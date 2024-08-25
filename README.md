@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Shruti926/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Shruti926/Leetcode/tree/master/0948-sort-an-array) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shruti926/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shruti926/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shruti926/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shruti926/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shruti926/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
