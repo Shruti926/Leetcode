@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shruti926/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shruti926/Leetcode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Shruti926/Leetcode/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shruti926/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shruti926/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shruti926/Leetcode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Shruti926/Leetcode/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/Shruti926/Leetcode/tree/master/0686-repeated-string-match) |
 ## String Matching
 |  |
