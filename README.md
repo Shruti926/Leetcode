@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shruti926/Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Shruti926/Leetcode/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/Shruti926/Leetcode/tree/master/0686-repeated-string-match) |
+| [3451-string-compression-iii](https://github.com/Shruti926/Leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
 | ------- |
