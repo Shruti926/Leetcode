@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shruti926/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shruti926/Leetcode/tree/master/0342-power-of-four) |
+| [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shruti926/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Shruti926/Leetcode/tree/master/0686-repeated-string-match) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
