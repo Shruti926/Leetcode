@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Shruti926/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1580-shuffle-the-array](https://github.com/Shruti926/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Shruti926/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shruti926/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shruti926/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shruti926/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shruti926/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
