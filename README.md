@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shruti926/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Shruti926/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shruti926/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shruti926/Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Shruti926/Leetcode/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/Shruti926/Leetcode/tree/master/0686-repeated-string-match) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Shruti926/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3451-string-compression-iii](https://github.com/Shruti926/Leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
