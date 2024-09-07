@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Shruti926/Leetcode/tree/master/0342-power-of-four) |
 | [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/Shruti926/Leetcode/tree/master/2155-find-missing-observations) |
+| [2491-smallest-even-multiple](https://github.com/Shruti926/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/Shruti926/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
