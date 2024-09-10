@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shruti926/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shruti926/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Shruti926/Leetcode/tree/master/0412-fizz-buzz) |
 | [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/Shruti926/Leetcode/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/Shruti926/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shruti926/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/Shruti926/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shruti926/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Shruti926/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Shruti926/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Shruti926/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Shruti926/Leetcode/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/Shruti926/Leetcode/tree/master/0686-repeated-string-match) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shruti926/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
