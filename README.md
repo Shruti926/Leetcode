@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/Shruti926/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Shruti926/Leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shruti926/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shruti926/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shruti926/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1217-relative-sort-array](https://github.com/Shruti926/Leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Shruti926/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Shruti926/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Shruti926/Leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shruti926/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shruti926/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Shruti926/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Shruti926/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Shruti926/Leetcode/tree/master/1217-relative-sort-array) |
 ## Segment Tree
 |  |
 | ------- |
