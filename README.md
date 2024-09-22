@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shruti926/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Shruti926/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shruti926/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shruti926/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Shruti926/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shruti926/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Shruti926/Leetcode/tree/master/0443-string-compression) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shruti926/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shruti926/Leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Shruti926/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Shruti926/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shruti926/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shruti926/Leetcode/tree/master/0326-power-of-three) |
