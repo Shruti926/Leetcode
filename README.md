@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shruti926/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shruti926/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shruti926/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Shruti926/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3330-modify-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Shruti926/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
