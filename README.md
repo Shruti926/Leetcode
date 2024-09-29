@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Shruti926/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Shruti926/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shruti926/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/Shruti926/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shruti926/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Shruti926/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3330-modify-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/3330-modify-the-matrix) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shruti926/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2714-left-and-right-sum-differences](https://github.com/Shruti926/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Interactive
 |  |
 | ------- |
