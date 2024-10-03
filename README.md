@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Shruti926/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shruti926/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Shruti926/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Shruti926/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3330-modify-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Shruti926/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Shruti926/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shruti926/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shruti926/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Shruti926/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
