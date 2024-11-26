@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shruti926/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shruti926/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shruti926/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Shruti926/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shruti926/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/Shruti926/Leetcode/tree/master/1217-relative-sort-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shruti926/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shruti926/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Shruti926/Leetcode/tree/master/0414-third-maximum-number) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shruti926/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shruti926/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shruti926/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shruti926/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Shruti926/Leetcode/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
