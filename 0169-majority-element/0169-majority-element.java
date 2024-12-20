@@ -1,18 +1,23 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n = nums.length;
-        Map<Integer, Integer> majority = new HashMap<>();
-        for(int num : nums)
+        int candidate = nums[0];
+        int count = 1;
+        for(int  i = 1; i<nums.length ; i++)
         {
-            majority.put(num, majority.getOrDefault(num,0)+1);
-        }
-        for(Map.Entry<Integer, Integer> entry : majority.entrySet())
-        {
-            if(entry.getValue() > n/2)
+            if(count == 0)
             {
-                return entry.getKey();
+                candidate = nums[i];
+                count  = 1;
+            }
+            else if(nums[i] == candidate)
+            {
+                count++;
+            }
+            else
+            {
+                count--;
             }
         }
-        return 0;
+        return candidate;
     }
 }
