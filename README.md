@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shruti926/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Shruti926/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shruti926/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shruti926/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shruti926/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/Shruti926/Leetcode/tree/master/1217-relative-sort-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shruti926/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shruti926/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Shruti926/Leetcode/tree/master/0414-third-maximum-number) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shruti926/Leetcode/tree/master/0229-majority-element-ii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Shruti926/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Shruti926/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shruti926/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
