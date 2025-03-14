@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shruti926/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Shruti926/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shruti926/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Shruti926/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shruti926/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shruti926/Leetcode/tree/master/0326-power-of-three) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shruti926/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Shruti926/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shruti926/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shruti926/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Shruti926/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Prefix Sum
