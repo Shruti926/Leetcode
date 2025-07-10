@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shruti926/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shruti926/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Shruti926/Leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Shruti926/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Shruti926/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Shruti926/Leetcode/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/Shruti926/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Shruti926/Leetcode/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/Shruti926/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shruti926/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3451-string-compression-iii](https://github.com/Shruti926/Leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
