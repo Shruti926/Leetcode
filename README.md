@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shruti926/Leetcode/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0679-24-game](https://github.com/Shruti926/Leetcode/tree/master/0679-24-game) |
 | [0777-toeplitz-matrix](https://github.com/Shruti926/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Shruti926/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shruti926/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shruti926/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Shruti926/Leetcode/tree/master/0412-fizz-buzz) |
+| [0679-24-game](https://github.com/Shruti926/Leetcode/tree/master/0679-24-game) |
 | [1013-fibonacci-number](https://github.com/Shruti926/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shruti926/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2083-three-divisors](https://github.com/Shruti926/Leetcode/tree/master/2083-three-divisors) |
@@ -412,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shruti926/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Shruti926/Leetcode/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/Shruti926/Leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
