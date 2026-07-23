@@ -11,7 +11,7 @@ class Solution {
                     sol = true;
                     break;
                 }
-                if(sol == true)break;
+                if(sol)break;
             }
         }
         return index;
