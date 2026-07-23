@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0679-24-game](https://github.com/Shruti926/Leetcode/tree/master/0679-24-game) |
+| [0724-find-pivot-index](https://github.com/Shruti926/Leetcode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Shruti926/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Shruti926/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Shruti926/Leetcode/tree/master/0898-transpose-matrix) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Shruti926/Leetcode/tree/master/0724-find-pivot-index) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shruti926/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2714-left-and-right-sum-differences](https://github.com/Shruti926/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Interactive
