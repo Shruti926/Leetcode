@@ -1,22 +1,29 @@
 class Solution {
-   public void merge(int[] nums1, int m, int[] nums2, int n) {
-    int i = m - 1; // Pointer for nums1 (end of valid elements)
-    int j = n - 1; // Pointer for nums2 (end of nums2)
-    int k = m + n - 1; // Pointer for merged array (end of nums1)
-
-    // Start merging from the end
-    while (i >= 0 && j >= 0) {
-        if (nums1[i] > nums2[j]) {
-            nums1[k--] = nums1[i--];
-        } else {
-            nums1[k--] = nums2[j--];
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int[] arr = new int[m+n];
+        int i = 0;
+        int j = 0;
+        int z = 0;
+        while(i<m && j<n)
+        {
+            if(nums1[i] <= nums2[j]){
+                arr[z++] = nums1[i++];
+            }
+            else{
+                arr[z++] = nums2[j++];
+                
+            }
+            
+        }
+        while(i < m){
+            arr[z++] = nums1[i++];
+        }
+        while(j < n){
+            arr[z++] = nums2[j++];
+        }
+        z = 0;
+        for(i = 0; i<m+n; i++){
+            nums1[i] = arr[z++];
         }
     }
-
-    // If any elements remain in nums2, copy them
-    while (j >= 0) {
-        nums1[k--] = nums2[j--];
-    }
-}
-
 }
