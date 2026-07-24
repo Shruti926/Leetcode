@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shruti926/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shruti926/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Shruti926/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Shruti926/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shruti926/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shruti926/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Shruti926/Leetcode/tree/master/0724-find-pivot-index) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shruti926/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2714-left-and-right-sum-differences](https://github.com/Shruti926/Leetcode/tree/master/2714-left-and-right-sum-differences) |
