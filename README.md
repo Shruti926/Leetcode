@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shruti926/Leetcode/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/Shruti926/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Shruti926/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shruti926/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Shruti926/Leetcode/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Shruti926/Leetcode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Shruti926/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shruti926/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Shruti926/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Shruti926/Leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shruti926/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Shruti926/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shruti926/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Shruti926/Leetcode/tree/master/1137-height-checker) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shruti926/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shruti926/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Shruti926/Leetcode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shruti926/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Shruti926/Leetcode/tree/master/0679-24-game) |
 | [1013-fibonacci-number](https://github.com/Shruti926/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shruti926/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
